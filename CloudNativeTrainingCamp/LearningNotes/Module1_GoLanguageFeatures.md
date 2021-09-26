@@ -1,4 +1,4 @@
-# GO Features<!-- omit in toc -->
+# GO Features <!-- omit in toc -->
 
 - [统一思想-12factor](#统一思想-12factor)
 - [Why GO](#why-go)
