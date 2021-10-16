@@ -24,4 +24,4 @@ Best practices references:
 
 通过 nsenter 进入容器查看 IP 配置。
 
-`nsenter -t $(docker inspect -f "{{.State.Pid}}" caiyiluohttpserver1) -n ip a`
+`nsenter -t $(docker inspect -f "{{.State.Pid}}" caiyiluohttpserver) -n ip a`
